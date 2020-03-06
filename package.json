@@ -1,0 +1,13 @@
+{
+  "name": "skill",
+  "version": "1.0.4",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "uuid": "^7.0.1"
+  },
+  "keywords": [
+    "Alexa",
+    "skill"
+  ]
+}
